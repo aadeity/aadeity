@@ -152,7 +152,15 @@ unauthorized access
 🔗 [Source Code](https://github.com/aadeity/GradeKeeper-)
 
 ---
+## 🌸 Certifications
 
+- Amazon Machine Learning Summer School 2025
+- Cisco CCNA: Enterprise Networking Security and Automation
+- Cisco CCNA: Introduction to Networks
+- Cisco CCNA: Switching Routing and Wireless Essentials
+- Coursera Advanced Learning Algorithms
+- Coursera Generative AI: Introduction and Applications 
+---
 ## ✨ Beyond Academics
 
 - 📗 I read a LOT , like genuinely a LOTT 
