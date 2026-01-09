@@ -19,11 +19,6 @@
     still+learning%2C+always+curious"
   />
 </p>
-<p align="center" style="color:#8B1E3F;">
-  <em>
-    building things that make sense, even when the data doesn’t.
-  </em>
-</p>
 
 ---
 
