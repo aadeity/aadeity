@@ -3,21 +3,7 @@
 </h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com
-    ?font=Pacifico
-    &size=24
-    &duration=3500
-    &color=8B1E3F
-    &center=true
-    &vCenter=true
-    &width=760
-    &lines=hi%2C+i'm+aditi+%E2%9C%A8;
-    i+work+with+data+and+ml;
-    dashboards%2C+models%2C+pipelines;
-    i+care+about+clarity+more+than+hype;
-    still+learning%2C+always+curious"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3500&color=8B1E3F&center=true&vCenter=true&width=760&lines=hi%2C+i%27m+aditi+%E2%9C%A8;i+work+with+data+and+ml;dashboards%2C+models%2C+pipelines;i+care+about+clarity+more+than+hype;still+learning%2C+always+curious" />
 </p>
 
 ---
