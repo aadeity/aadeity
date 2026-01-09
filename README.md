@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3500&color=8B1E3F&center=true&vCenter=true&width=760&lines=hi%2C+i%27m+aditi+%E2%9C%A8;i+work+with+data+and+ml;dashboards%2C+models%2C+pipelines;" />
 </h1>
 
----
 
 ## 🧠 About Me
 
@@ -60,98 +59,112 @@ I am still learning, still experimenting, and still figuring out what “good”
 
 ## 📌 Featured Projects
 
-## 📊 Data Science & Analytics Projects
+## 📊 Analytics Projects
 
 ### 🎬 Rakuten Viki Content Analytics Dashboard  
 **Tech:** PostgreSQL, Python, Power BI  
-- Built an analytics dashboard to evaluate content performance and user engagement  
-- Designed SQL queries and data models for efficient reporting  
-- Translated raw data into business-friendly KPIs and insights  
 
-🔗 Source Code
+- Built PostgreSQL analytics database processing 1,900+ streaming titles, implementing advanced SQL
+to normalize multi-value fields and compute 10+ KPIs across country, genre, runtime, and IMDb metrics.
+- Analyzed cross-regional content trends revealing Korea’s 53.57% market dominance and 10× growth in
+yearly production since 2010, identifying high-rating niche genres to guide data-driven licensing strategy.
+-  Designed a Power BI dashboard with 10+ interactive, growth, ranking, and genre-rating views to
+support content acquisition and catalog optimization decisions.
+
+🔗 [Source Code](https://github.com/aadeity/Rakuten-Viki-TV-Dramas-and-Movies-Analysis)
 
 ---
 
 ### 🗳️ India 2024 General Elections Analytics Dashboard  
 **Tech:** PostgreSQL, Python, Power BI  
-- Analyzed large-scale election datasets to uncover voting trends  
-- Built interactive dashboards for constituency-level insights  
-- Focused on data storytelling and interpretability  
+- Engineered PostgreSQL database processing 645M+ votes across 543 constituencies, designing 50+
+advanced SQL queries using window functions and CTEs to analyze nationwide party performance patterns.
+- Developed four analytical indices (Competitiveness, Efficiency, Fragmentation, Popularity),
+revealing BJP’s ˜62% vote-to-96% seat conversion in Gujarat and 20+ swing constituencies with less than
+1% margins.
+- Built interactive Power BI dashboards with 15+ DAX measures tracking postal ballot impact and margin
+analysis, delivering actionable insights for strategic resource allocation and electoral trend forecasting.
 
-🔗 Source Code
-
----
-
-### 📚 Book Recommender System  
-**Tech:** Python, NLP, Recommender Systems  
-- Built a recommendation engine using text-based similarity  
-- Applied NLP techniques for feature extraction  
-- Focused on relevance and user personalization  
-
-🔗 Source Code
+🔗 [Source Code](https://github.com/aadeity/-Lok-Sabha-Election-2024-Results-Analysis)
 
 ---
+
 
 ## 🧱 Data Engineering & AI Systems Projects
 
 ### 🎧 Spotify Data Engineering Pipeline on AWS  
 **Tech:** AWS S3, AWS Glue, Athena, Power BI  
-- Designed an end-to-end data pipeline for Spotify datasets  
-- Implemented ETL workflows using AWS Glue  
-- Enabled analytics-ready datasets and dashboards  
+- Built an end-to-end AWS-based data engineering pipeline using S3, Glue, Athena, and Power BI to
+process and analyze Spotify datasets.
+- Transformed raw CSV data into analytics-ready Parquet tables using AWS Glue ETL jobs, applying data
+cleaning, normalization, and joins.
+- Enabled efficient querying and reporting through Athena SQL and Power BI dashboards by
+optimizing storage formats and data structure.
 
-🔗 Source Code
+🔗 [Source Code](https://github.com/aadeity/Spotify-Data-Engineering-Pipeline-on-AWS-)
 
 ---
 
 ### 🗣️ Multilingual Voice-First Banking AI Assistant  
 **Tech:** Python, ASR, Rasa NLU, FastAPI  
-- Built an end-to-end voice banking pipeline  
-- Supported balance checks, transfers, and queries  
-- Enabled multilingual support across 7 Indian languages  
+- Built end-to-end voice banking pipeline supporting balance checks, transfers, and queries across 7 Indian
+languages via ASR, text normalization, NLU, and API routing .
+- Engineered FastAPI backend with OTP verification, liveness detection, audit logging, and DPDP-compliant
+storage for secure financial transaction execution .
+- Designed a scalable architecture with routing layers, mock DB, HSM-like signing & automated
+testing utilities, reducing pipeline failure rates by 40% .
 
-🔗 Source Code
+🔗 [Source Code](https://github.com/aadeity/SahaYaa)
 
 ---
 
 ### 📄 RAG Document Intelligence System  
 **Tech:** Python, LangChain, FAISS, Generative AI  
-- Built a RAG-based document intelligence system  
-- Implemented vector search using FAISS  
-- Integrated generative models for contextual responses  
+- Built RAG-based document intelligence system using FAISS vector search and Gemini embeddings for
+semantic retrieval and natural-language querying across multi-PDF datasets
+- Engineered end-to-end pipeline with PDF extraction, recursive chunking, and vector indexing, reducing
+irrelevant retrieval matches by 40%
+- Developed interactive Streamlit interface with custom LangChain QA chain and prompt-engineered
+templates, improving response consistency by 30% over baseline LLM
 
-🔗 Source Code
+🔗 [Source Code](https://github.com/aadeity/PDF-Insight-Engine-with-Gemini-RAG-powered-)
+
+---
+
+### 📚 Book Recommender System  
+**Tech:** Python, NLP, Recommender Systems  
+- Developed a hybrid recommendation engine using Latent Dirichlet Allocation (LDA) & Cosine
+Similarity, achieving 90% accuracy & improving user engagement by 25% over baseline.
+- Analyzed 100+ reviews and book descriptions to extract key themes and match user preferences effectively to
+develop a responsive UI that enables real-time recommendations.
+- Integrated scikit-learn’s cosine similarity, resulting 35% increase in recommendation relevance
+over traditional collaborative filtering models.
+
+🔗 [Source Code](https://github.com/aadeity/a-book-a-month)
 
 ---
 
 ### 🏫 Role-Based Academic Portal GradeKeeper  
 **Tech:** Flask, MySQL  
-- Designed a role-based academic management system  
-- Implemented authentication and access control  
-- Enabled grade management and reporting  
+- Developed a student-teacher portal & session management supporting 100+ logins & 2 access roles.
+- Enabled grade upload/viewing workflows; teachers can assign grades to 50+ students across 10+ subjects,
+while students accessed only their own records.
+- Secured user data with regex-based validations, session tokens & access checks preventing
+unauthorized access
 
-🔗 Source Code
+🔗 [Source Code](https://github.com/aadeity/GradeKeeper-)
 
 ---
 
 ## ✨ Beyond Academics
 
-- ✍️ I enjoy writing and creative expression  
-- 🎧 Music fuels my debugging sessions  
-- ☕ Strong believer in coffee-powered productivity  
-- 🎨 Maximalist aesthetics, clean systems  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
+- 📗 I read a LOT , like genuinely a LOTT 
+- 🎧 I love me some chatpata desi playlist for late nigh debugging sessions , controversial take but i dont like coffee so these high enery beats keep me awake. 
+- 🧶 I also crochet , and have a small crochet business
 
 ---
 
 ## 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aadeity/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](adeityme889@gmail.com)
