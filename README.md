@@ -5,9 +5,8 @@
 
 ## 🧠 About Me
 
-I like working with data because it makes me think slowly and carefully.
-
-Most of my work lives somewhere between **data science, machine learning, analytics, and data engineering**. I enjoy starting from raw, unstructured data and slowly shaping it into something useful, whether that is a model, a dashboard, or a system someone can actually rely on.
+Hey there! Talking about me , I like working with data and i think thats the most accurate and shortest summary of all my works .
+Talking about my works,  most of my work lives somewhere between **data science, machine learning, analytics, and data engineering**. I enjoy starting from raw, unstructured data and slowly shaping it into something useful, whether that is a model, a dashboard, or a system someone can actually rely on.
 
 I care a lot about things making sense.  
 Clear assumptions. Clean pipelines. Honest evaluation.
@@ -21,7 +20,6 @@ I am still learning, still experimenting, and still figuring out what “good”
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -53,6 +51,7 @@ I am still learning, still experimenting, and still figuring out what “good”
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-4B0082?style=for-the-badge)
 ![ASR](https://img.shields.io/badge/ASR-20B2AA?style=for-the-badge)
+
 ---
 
 ## 📌 Featured Projects
@@ -157,7 +156,7 @@ unauthorized access
 ## ✨ Beyond Academics
 
 - 📗 I read a LOT , like genuinely a LOTT 
-- 🎧 I love me some chatpata desi playlist for late nigh debugging sessions , controversial take but i dont like coffee so these high enery beats keep me awake. 
+- 🎧 I love me some chatpata desi playlist for late night debugging sessions , controversial take but i dont like coffee so these high energy beats keep me awake. 
 - 🧶 I also crochet , and have a small crochet business
 
 ---
@@ -165,4 +164,5 @@ unauthorized access
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aadeity/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](adeityme889@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeityme889@gmail.com)
+
